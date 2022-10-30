@@ -1,0 +1,3 @@
+/Users/yy/CLionProjects/midtermtest/cmake-build-debug/CMakeFiles/slist1.h.dir
+/Users/yy/CLionProjects/midtermtest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yy/CLionProjects/midtermtest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

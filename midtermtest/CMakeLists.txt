@@ -1,0 +1,1 @@
+add_executable(slist1.h slist1test.cpp slist1.cpp)
